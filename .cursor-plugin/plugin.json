@@ -1,14 +1,14 @@
 {
   "name": "slashml-memory",
-  "version": "1.0.11",
-  "description": "Sub-millisecond persistent memory, ambient lifecycle hooks, behavioral code search, and bug localization for Cursor.",
+  "version": "1.0.14",
+  "description": "Sub-millisecond persistent memory, inline redaction & per-agent access scoping, ambient lifecycle hooks, behavioral code search, and bug localization for Cursor.",
   "icon": ".claude-plugin/icon.png",
   "author": {
     "name": "SlashML",
     "url": "https://slashml.ai"
   },
   "homepage": "https://slashml.ai",
-  "repository": "https://github.com/slashml-ai/cursor-slashml-memory",
+  "repository": "https://github.com/slashml-ai/ml-memory",
   "license": "Apache-2.0",
   "skills": "./skills/",
   "hooks": "./hooks/hooks.json",
