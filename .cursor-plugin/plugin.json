@@ -1,6 +1,6 @@
 {
   "name": "slashml-memory",
-  "version": "1.0.14",
+  "version": "1.0.15",
   "description": "Sub-millisecond persistent memory, inline redaction & per-agent access scoping, ambient lifecycle hooks, behavioral code search, and bug localization for Cursor.",
   "icon": ".claude-plugin/icon.png",
   "author": {
